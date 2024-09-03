@@ -1,0 +1,22 @@
+.box{
+
+    min-width: 40%;
+    aspect-ratio: 1/1.25;
+    padding-block: 3%;
+    border-radius: 50px;
+    background-color: white;
+    text-align: center;
+    width: 420px;
+    height: 120px;
+    padding: 20px;
+    border: 7px solid black;
+
+}
+
+.button{
+
+    border-radius: 50px;
+    background-color: white;
+    
+
+}
